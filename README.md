@@ -17,7 +17,7 @@ Follow the steps below to set up and run the front-end application:
 
 1. Clone the repository to your local machine:
 
-   `git clone https://github.com/Computer-sp/your-repository.git`
+   `git clone https://github.com/Computer-sp/ERP-System.git`
    
 
 2. Navigate to the project directory:
