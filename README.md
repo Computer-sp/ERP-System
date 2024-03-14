@@ -42,17 +42,23 @@ To run the application, follow these steps:
 
 Once the application is running, you can perform the following actions:
 
+![Screenshot (64)](https://github.com/Computer-sp/ERP-System/assets/100302353/1768722d-fdc0-485e-a9b2-d57c5afa6a34)
+
 ### Managing Orders
 
 - View a list of orders with details such as ID, customer name, date, and status.
 - Delete an order by clicking the "Delete" button next to it.
 - Click on the "View Details" button to see more information about the order.
 
+  ![Screenshot (66)](https://github.com/Computer-sp/ERP-System/assets/100302353/4bdb87c7-36f5-4508-9502-e8a54ebec4b6)
+
 ### Managing Products
 
 - View a list of products with details such as name, category, price, and stock quantity.
 - Delete a product by clicking the "Delete" button next to it.
 - Click on the "Add Product" button to add a new product.
+
+  ![Screenshot (65)](https://github.com/Computer-sp/ERP-System/assets/100302353/ffa9d898-839c-47a2-93fe-43d3d1cf613e)
 
 ## Additional Information
 
