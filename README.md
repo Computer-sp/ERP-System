@@ -32,7 +32,7 @@ Follow the steps below to set up and run the front-end application:
 
 To run the application, follow these steps:
 
-1. Start the development server:
+1. Start the development server by using below command on terminal:
 
    `npm start`
 
