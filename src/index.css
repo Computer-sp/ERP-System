@@ -1,0 +1,45 @@
+/* Apply a global font family and background color */
+body {
+  font-family: Arial, sans-serif;
+  background-color: #f8f9fa;
+  color: #333; /* Set default text color */
+}
+
+/* Style the header */
+.header {
+  background-color: #343a40;
+  color: #ffffff;
+  padding: 20px;
+  text-align: center;
+}
+
+/* Style the navigation links */
+.navbar {
+  background-color: #ffffff;
+  padding: 10px;
+  text-align: center;
+}
+
+.navbar a {
+  color: #343a40;
+  text-decoration: none;
+  padding: 10px 20px;
+}
+
+.navbar a:hover {
+  background-color: #dee2e6;
+  color: #343a40;
+}
+
+/* Style the main content area */
+.main-content {
+  padding: 20px;
+}
+
+/* Style the footer */
+.footer {
+  background-color: #343a40;
+  color: #ffffff;
+  padding: 20px;
+  text-align: center;
+}

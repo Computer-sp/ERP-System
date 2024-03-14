@@ -1,0 +1,173 @@
+/* Apply a global font family and background color */
+body {
+  font-family: 'Roboto', sans-serif;
+  background-color: #f0f0f0;
+  color: #333;
+}
+
+/* Style headings */
+h1, h2, h3 {
+  font-family: 'Roboto', sans-serif;
+  color: #444;
+}
+
+/* Style paragraphs */
+p {
+  font-size: 16px;
+  line-height: 1.5;
+}
+
+/* Style links */
+a {
+  color: #007bff;
+  text-decoration: none;
+}
+
+a:hover {
+  text-decoration: underline;
+}
+
+/* Increase font size for all text */
+body {
+  font-size: 18px;
+}
+
+/* Increase font size for headings */
+h1, h2, h3 {
+  font-size: 24px;
+}
+
+/* Increase font size for paragraphs */
+p {
+  font-size: 20px;
+}
+
+/* Style the header */
+.header {
+  background-color: #343a40;
+  color: #ffffff;
+  padding: 20px;
+  text-align: center;
+}
+
+/* Style the navigation links */
+.navbar {
+  background-color: #ffffff;
+  padding: 10px;
+  text-align: center;
+}
+
+.navbar a {
+  color: #343a40;
+  text-decoration: none;
+  padding: 10px 20px;
+}
+
+.navbar a:hover {
+  background-color: #dee2e6;
+  color: #343a40;
+}
+
+/* Style the main content area */
+.main-content {
+  padding: 20px;
+}
+
+/* Style the footer */
+.footer {
+  background-color: #343a40;
+  color: #ffffff;
+  padding: 20px;
+  text-align: center;
+}
+
+/* Style for ProductsManagement */
+.products-container {
+  margin: 20px;
+}
+
+.products-container .section-title {
+  font-size: 24px;
+  color: #333;
+  margin-bottom: 10px;
+}
+
+.products-container .products-list {
+  list-style-type: none;
+  padding: 0;
+}
+
+.products-container .product-item {
+  background-color: #f9f9f9;
+  border: 1px solid #ddd;
+  margin-bottom: 10px;
+  padding: 10px;
+}
+
+.products-container .product-detail {
+  margin-right: 20px;
+}
+
+.products-container .delete-btn {
+  background-color: #dc3545;
+  color: #fff;
+  border: none;
+  padding: 5px 10px;
+  cursor: pointer;
+}
+
+.products-container .delete-btn:hover {
+  background-color: #c82333;
+}
+
+/* Style for OrdersManagement */
+.orders-container {
+  margin: 20px;
+}
+
+.orders-container .section-title {
+  font-size: 24px;
+  color: #333;
+  margin-bottom: 10px;
+}
+
+.orders-container .orders-list {
+  list-style-type: none;
+  padding: 0;
+}
+
+.orders-container .order-item {
+  background-color: #f9f9f9;
+  border: 1px solid #ddd;
+  margin-bottom: 10px;
+  padding: 10px;
+}
+
+.orders-container .order-detail {
+  margin-right: 20px;
+}
+
+.orders-container .delete-btn {
+  background-color: #dc3545;
+  color: #fff;
+  border: none;
+  padding: 5px 10px;
+  cursor: pointer;
+}
+
+.orders-container .delete-btn:hover {
+  background-color: #c82333;
+}
+
+/* Style for order info */
+.order-info {
+  background-color: #f0f0f0;
+  border: 1px solid #ccc;
+  padding: 20px;
+  margin-top: 20px;
+}
+
+.order-info h2 {
+  font-size: 20px;
+  margin-bottom: 10px;
+}
